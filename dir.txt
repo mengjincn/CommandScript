@@ -1,0 +1,164 @@
+.:
+dir.txt
+Documents/
+OpenSourceSoftware/
+SoftwarePackage/
+
+./Documents:
+Docker/
+Java/
+SQL/
+
+./Documents/Docker:
+Docker Cookbook (Early Release)-O'Reilly(2015).pdf
+Docker for Developers-Leanpub%282016%29.pdf
+Docker High Performance-Packt Publishing%282016%29.pdf
+Docker in Action-Manning(2016).pdf
+Docker in Practice-Manning%282016%29.pdf
+Docker.Hands.on.Deploy.Administer.Docker.Platform.B00RXFHYZY.pdf
+Docker_Up Running Reilly.pdf
+Docker_What You Need to Know-John Symonds(2016).pdf
+Docker+Code+Walk-Wei+Xu%282016%29.pdf
+Docker从入门到实践.pdf
+Enterprise Docker, 1st Edition-O’Reilly(2017).pdf
+Learning Docker Networking-Packt Publishing%282016%29.pdf
+Learning Docker Networking-Packt Publishing(2016).pdf
+Mastering Docker-Packt Publishing(2015).pdf
+Monitoring Docker-Packt Publishing%282015%29.pdf
+OReilly.Using.Docker.2015.12 (1).pdf
+Spring Microservices_Build Scalable Microservices with Spring%2C Docker%2C and Mesos-Packt Publishing%282016%29.pdf
+The Docker Book %28v1.10.3%29-James Turnbull%282016%29.pdf
+Top+50+Docker+Interview+Questions+and+Answers-Knowledge+Powerhouse%282016%29.pdf
+Using+Docker_Developing+and+Deploying+Software+with+Containers-O%27Reilly%282015%29.pdf
+
+./Documents/Java:
+
+./Documents/SQL:
+Apress Beginning Oracle SQL, For Oracle Database 12c 3rd (2014).pdf
+Beginning Oracle SQL for Oracle Database 12c-Apress(2014).pdf
+davechild_mysql.pdf
+Effective SQL_61 Specific Ways to Write Better SQL-Addison-Wesley%282016%29.pdf
+High Performance SQL Server_The Go Faster Book-Apress(2016).pdf
+High%20Performance%20SQL%20Server_The%20Go%20Faster%20Book-Apress%282016%29.pdf
+Learn SQL Database Programming In a Weekend-lulu.com(2015).pdf
+MySQL必知必会（文字版）.pdf
+SQL on Big Data_Technology, Architecture, and Innovation-Apress(2016).pdf
+SQL Programming_Questions and Answers-George A Duckett(2016).pdf
+SQL Server 2012 with PowerShell V3 Cookbook-Packt Publishing(2012).pdf
+SQL With a Smile_An Easygoing Guide to SQL Basics-Elaine Kellner(2016).pdf
+SQL with Practice Exercises, Learn SQL Fast, on free software-D Armstrong(2015).pdf
+SQL_A Beginner's Guide, 4th Edition-McGraw Hill(2015).pdf
+SQL语言艺术.pdf
+The Language of SQL%2C 2nd Edition-Pearson%282016%29.pdf
+高性能MySQL（第3版）D.Baron.Scbwartz等.扫描版.pdf
+
+./OpenSourceSoftware:
+AdminLTE-2.3.11.zip
+
+./SoftwarePackage:
+Database/
+DatabaseClient/
+E-Mail Client/
+Everything/
+FileArchiver/
+Git/
+InputMethodSoftware/
+InstantMessagingSoftware/
+IntegratedDevelopmentEnvironment/
+JDK/
+ProxySoftware/
+RemoteConnectionTool/
+SoftwareProjectManagementAndComprehensionTool/
+TextEditor/
+TheBrowser/
+TranslationSoftware/
+VideoPlayer/
+WebServer/
+YonyouVPN/
+
+./SoftwarePackage/Database:
+mysql-5.7.15-winx64.zip
+
+./SoftwarePackage/DatabaseClient:
+Navicat/
+
+./SoftwarePackage/DatabaseClient/Navicat:
+navicat_chs.exe*
+navicat112_premium_cs_x64.exe*
+使用说明.txt
+
+./SoftwarePackage/E-Mail Client:
+Foxmail/
+
+./SoftwarePackage/E-Mail Client/Foxmail:
+fm728chb379_build_setup.exe*
+
+./SoftwarePackage/Everything:
+Everything-1.3.4.686.x64.Multilingual.zip
+
+./SoftwarePackage/FileArchiver:
+7z1604-x64.msi
+
+./SoftwarePackage/Git:
+Git-2.13.2-64-bit.exe*
+
+./SoftwarePackage/InputMethodSoftware:
+sogou_pinyin_zhihui_8.3.0.exe*
+
+./SoftwarePackage/InstantMessagingSoftware:
+
+./SoftwarePackage/IntegratedDevelopmentEnvironment:
+JavaIDE/
+pycharm-professional-2016.3.2.exe*
+
+./SoftwarePackage/IntegratedDevelopmentEnvironment/JavaIDE:
+eclipse_birt420.zip
+EclipseStartByJava8.bat
+spring-tool-suite-3.7.0.RELEASE-e4.5-win32-x86_64.zip
+
+./SoftwarePackage/JDK:
+java7_x86.zip
+jdk-8u121-windows-x64.exe*
+jdk-8u131-windows-i586_8.0.1310.11.exe*
+
+./SoftwarePackage/ProxySoftware:
+Shadowsocks.exe*
+
+./SoftwarePackage/RemoteConnectionTool:
+TeamViewer_12.1.13180.0.exe*
+
+./SoftwarePackage/SoftwareProjectManagementAndComprehensionTool:
+Gradle/
+Maven/
+
+./SoftwarePackage/SoftwareProjectManagementAndComprehensionTool/Gradle:
+gradle-3.5-bin.zip
+
+./SoftwarePackage/SoftwareProjectManagementAndComprehensionTool/Maven:
+settings.xml
+
+./SoftwarePackage/TextEditor:
+AtomSetup-x64.exe*
+EditorPlus/
+npp_7.3.3_Installer.exe*
+
+./SoftwarePackage/TextEditor/EditorPlus:
+epp430_64bit.exe*
+注册码.txt
+
+./SoftwarePackage/TheBrowser:
+ChromeStandalone_57.0.2987.133_Setup.exe*
+
+./SoftwarePackage/TranslationSoftware:
+YoudaoDictFull.exe*
+
+./SoftwarePackage/VideoPlayer:
+PotPlayerSetup64.exe*
+
+./SoftwarePackage/WebServer:
+apache-tomcat-7.0.64-windows-x64.zip
+nginx-1.12.0.zip
+
+./SoftwarePackage/YonyouVPN:
+ArrayMotionProSetup_v1.1.4.msi
+天诚安信证书助手-0.0.0.14.exe*
