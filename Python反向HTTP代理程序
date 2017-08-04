@@ -13,3 +13,46 @@ Python反代，作者介绍 不会像niginx反代一样被google ban ip或者弹
 请解密此串以取得密码: WmhlamlhbmdVbml2ZXJzaXR5
 解一下就行，，，密码很简单 ZhejiangUniversity
 当然最好还是编辑下吧，密码不要直接回复，大家都不想这个网站这么快倒闭吧。
+
+## Shadowsocks免费账号
+Server IP    :  sg1.ssnode.tech
+Server IP    :  sg2.ssnode.tech
+Server IP    :  sg3.ssnode.tech
+Server IP    :  jp.ssnode.tech
+Server IP    :  jp3.ssnode.tech
+Server IP    :  jp4.ssnode.tech
+Server Port :  443
+Password   :  12345
+Protocol     :      auth_aes128_md5
+obfs             :      tls1.2_ticket_auth
+Encryption Method:  aes-256-cfb
+
+Server IP    :  nl.ssnode.tech
+Server Port :  443
+Password   :  12345
+Protocol     :      auth_aes128_md5
+obfs             :      tls1.2_ticket_auth
+Encryption Method:  rc4-md5-6
+
+Server IP    :  us2.ssnode.tech
+Server Port :  443
+Password   :  12345
+Protocol     :      auth_sha1_v4
+obfs             :      tls1.2_ticket_auth
+Encryption Method:  chacha20
+
+Server IP    :  jp2.ssnode.tech
+Server Port :  8888
+Password   :  12345
+Protocol     :      auth_aes128_md5
+obfs             :      http_simple
+Encryption Method:  rc4-md5-6
+
+Server IP    :  jp5.ssnode.tech
+Server Port :  8080
+Password   :  12345
+Protocol     :      auth_aes128_md5
+obfs             :      http_simple
+Encryption Method:  aes-256-cfb
+
+> 以上账号来自Google+ ikeiko IM
