@@ -26,6 +26,22 @@
 
 3. 克隆Git仓库的时候记得需要选择SSH地址，这样在提交代码的时候就可以不用再次输入用户名和密码了。
 
+## node.js安装  
+* 在CentOS下执行下面的命令，安装node.js 8  
+```
+curl --silent --location https://rpm.nodesource.com/setup_8.x | sudo bash -
+sudo yum -y install nodejs
+```
+* node.js配置国内源  
+```
+npm config set registry https://registry.npm.taobao.org
+
+// 配置后可通过下面方式来验证是否成功
+npm config get registry
+// 或
+npm info express
+```
+
 ## Git命令
 
 1. 设置用户名和邮箱
